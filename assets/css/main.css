@@ -1721,7 +1721,7 @@
 		background: url("images/bg01.png"), url("../../images/header.jpg");
 		background-position: top left, center center;
 		background-size: auto, cover;
-		min-height: 300px;
+		min-height: 350px;
 	}
 
 	#main-wrapper {
