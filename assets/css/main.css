@@ -2367,16 +2367,16 @@
 
 	}
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
 	#header-wrapper {
-		background: url("images/bg01.png"), url(../../images/mobile2.jpg);		
+		background: url("images/bg01.png"), url(../../images/mobile.jpg);		
 		background-position: top left, center center;
 		background-size: auto, cover;
-		min-height: 300px;
+		min-height: 400px;
 	}
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 800px) {
 	#header-wrapper {
 		background: url("images/bg01.png"), url(../../images/mobile.jpg);		
 		background-position: top left, center center;
