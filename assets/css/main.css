@@ -2370,7 +2370,7 @@
 
 @media screen and (max-width: 500px) {
 	#header-wrapper {
-		background: url(images/bg01.png), url(../../images/mobile.jpg);		
+		background: url(../../images/mobile.jpg);		
 		background-position: top left, center center;
 		background-size: auto, cover;
 		min-height: 400px;
