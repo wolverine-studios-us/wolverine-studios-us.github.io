@@ -2376,7 +2376,7 @@
 	}
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (min-width: 800px) and (max-width: 1000px) {
 	#header-wrapper {
 		background: url("images/bg01.png"), url(../../images/mobile.jpg);		
 		background-position: top left, center center;
