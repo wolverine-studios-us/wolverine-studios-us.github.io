@@ -2381,6 +2381,6 @@
 		background: url("images/bg01.png"), url(../../images/mobile.jpg);		
 		background-position: top left, center center;
 		background-size: auto, cover;
-		min-height: 400px;
+		min-height: 700px;
 	}
 }
