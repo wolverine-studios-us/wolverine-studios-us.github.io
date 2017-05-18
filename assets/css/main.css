@@ -2378,7 +2378,25 @@
 
 @media screen and (min-width: 501px) and (max-width: 600px) {
 	#header-wrapper {
-		background: url("images/bg01.png"), url(../../images/mobile.jpg);		
+		background: url("images/bg01.png"), url(../../images/mobile2.jpg);		
+		background-position: top left, center center;
+		background-size: auto, cover;
+		min-height: 400px;
+	}
+}
+
+@media screen and (min-width: 601px) and (max-width: 800px) {
+	#header-wrapper {
+		background: url("images/bg01.png"), url(../../images/mobile3.jpg);		
+		background-position: top left, center center;
+		background-size: auto, cover;
+		min-height: 400px;
+	}
+}
+
+@media screen and (min-width: 801px) and (max-width: 1000px) {
+	#header-wrapper {
+		background: url("images/bg01.png"), url(../../images/mobile4.jpg);		
 		background-position: top left, center center;
 		background-size: auto, cover;
 		min-height: 400px;
