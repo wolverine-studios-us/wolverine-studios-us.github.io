@@ -27,6 +27,9 @@
 	#readyblock{
 		text-align: center;
 		background-color: yellow;
+		z-index: 1;
+		position: absolute;
+		width: 100%;
 	}
 
 	table { 
