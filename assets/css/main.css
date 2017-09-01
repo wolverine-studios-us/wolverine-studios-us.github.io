@@ -24,6 +24,11 @@
 		text-align: center;
 	}
 
+	#readyblock{
+		text-align: center;
+		background-color: yellow;
+	}
+
 	table { 
 	  color: #333;
 	  font-family: Helvetica, Arial, sans-serif;
