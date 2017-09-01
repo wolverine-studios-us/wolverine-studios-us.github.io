@@ -1277,7 +1277,13 @@
 	}
 
 	header {
-		margin: 2em 0 2em 0;
+		margin: 0 0 2em 0;
+	}
+
+	@media screen and (max-width:736px){
+		header {
+			margin: 2em 0 2em 0;
+		}
 	}
 
 		header h2, header h3 {
