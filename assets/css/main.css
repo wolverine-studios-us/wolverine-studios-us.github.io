@@ -1795,7 +1795,7 @@
 /* Wrappers */
 
 	#header-wrapper {
-		background: url("images/bg01.png"), url("../../images/header2.jpg");
+		background: url("images/bg01.png"), url("../../images/header2.png");
 		background-position: top left, center center;
 		background-size: auto, cover;
 		min-height: 400px;
