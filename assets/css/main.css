@@ -12,7 +12,7 @@
 	}
 
 	#titleBar {
-		display: none;
+		display: none !important;
 	}
 	
 	.actions{
