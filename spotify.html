@@ -6,14 +6,16 @@
 <script>
 window.onSpotifyWebPlaybackSDKReady = () => {
   // You can now initialize Spotify.Player and use the SDK
-   	
+</script>
+<script>
   // test connection
 	player.connect().then(success => {
 	  if (success) {
 		console.log('The Web Playback SDK successfully connected to Spotify!');
 	  }
 	})
-  
+</script>
+<script>
   //Play eminem song  
 	const play = ({
 	  spotify_uri,
@@ -42,7 +44,6 @@ window.onSpotifyWebPlaybackSDKReady = () => {
 	});
 };
 </script>
-
 
 </body>
 </html>
