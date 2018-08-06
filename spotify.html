@@ -13,8 +13,7 @@
 	window.onSpotifyWebPlaybackSDKReady = () => {
   // You can now initialize Spotify.Player and use the SDK
   }
-</script>
-<script>
+
 window.onSpotifyWebPlaybackSDKReady = () => {
   const token = 'BQBjzu3KZYETVyfFZGG1uzVkwlS7xoCg4c4NEwE83rEiQAW0pMpNs0GPJRwjpCk4ccXzdLKkbicAIjfquDXteiJDnYUJUUByNQQ3wOiMycBv4PCSg8PMbVX3jRh7bZedyz0YSJwlqcQSShKzHHib6Os6kpYDMA';
   const player = new Spotify.Player({
@@ -44,16 +43,14 @@ window.onSpotifyWebPlaybackSDKReady = () => {
   // Connect to the player!
   player.connect();
 };
-</script>
-<script>
+
   // test connection
 	player.connect().then(success => {
 	  if (success) {
 		console.log('The Web Playback SDK successfully connected to Spotify!');
 	  }
 	})
-</script>
-<script>
+
   //Play eminem song  
 	const play = ({
 	  spotify_uri,
