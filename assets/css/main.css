@@ -1501,7 +1501,7 @@
 		-webkit-appearance: none;
 		position: relative;
 		display: inline-block;
-		background-color: #4091bf;
+		background-color: rgb(70, 48, 235);
 		border-radius: 8px;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.35), inset 0px 2px 1px 0px rgba(255, 255, 255, 0.35);
 		text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.5);
