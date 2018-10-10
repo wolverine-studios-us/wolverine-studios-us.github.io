@@ -1550,8 +1550,8 @@
 		input[type="reset"].medium,
 		button.medium,
 		.button.medium {
-			font-size: 1.25em;
-			padding: 1em 2.25em;
+			font-size: 17px;
+			padding: 16px 16px;
 		}
 
 		input[type="button"].big,
